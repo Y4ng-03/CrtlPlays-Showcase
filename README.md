@@ -7,15 +7,12 @@ Bienvenido a **CtrlPlays**, una solución de comercio electrónico robusta y per
 
 ---
 
-## 📸 Vistas del Proyecto
-> [!TIP]
-<img width="1906" height="941" alt="image" src="https://github.com/user-attachments/assets/bca8680d-551a-47ff-bea3-182ff8810168" />
-<img width="1904" height="917" alt="image" src="https://github.com/user-attachments/assets/f5e0ae9d-1714-46f1-8376-40636806a932" />
-
-
 | Tienda (Shop) | Carrito de Compras | Panel Administrativo |
 | :---: | :---: | :---: |
-| ![Shop Preview](https://via.placeholder.com/400x250?text=Captura+de+la+Tienda) | ![Cart Preview](https://via.placeholder.com/400x250?text=Captura+del+Carrito) | ![Admin Preview](https://via.placeholder.com/400x250?text=Captura+del+Admin) |
+| ![Shop Preview](<img width="1904" height="946" alt="image" src="https://github.com/user-attachments/assets/85c507ee-6c66-4331-b5e2-607e6ea2c150" />
+) | ![Cart Preview](<img width="1900" height="944" alt="image" src="https://github.com/user-attachments/assets/bc810578-98b1-42ea-b843-d4c52fbee1cc" />
+) | ![Admin Preview](<img width="1899" height="948" alt="image" src="https://github.com/user-attachments/assets/cb442a42-e1ae-4a8c-a711-a9b6f99e5f0f" />
+) |
 
 ---
 
